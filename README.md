@@ -44,7 +44,7 @@ ai_moodmate/
 
 1. **Clone/Navigate to the project directory:**
    ```bash
-   cd /home/surendra208/Documents/jaya/aimoodmate/YOLO/ai_moodmate
+   cd /Users/devyanidadwal/Downloads/ai_moodmate
    ```
 
 2. **Create virtual environment:**
